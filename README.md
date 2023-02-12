@@ -26,8 +26,6 @@ O cliente entrou em contato com os seguintes requisitos:
 
 # Briefing do Projeto
 
-<br/>
-
 A primeira etapa de qualquer projeto é entender sobre o projeto/empresa e as necessidades/desejos do cliente.
 
 <br/>
@@ -81,7 +79,7 @@ _Perguntas importantes a serem respondidas sobre a marca_
 
 <br/>
 
-Os produtos exibidos serão 6 tipos de poke oferecidos pelo restaurante. Terá a imagem de cada um deles, os ingredientes de levam, tamanhos disponíveis e preços. A forma de contato será através de um link de redirecionamento para o whatsapp.
+- Os produtos exibidos serão 6 tipos de poke oferecidos pelo restaurante. Terá a imagem de cada um deles, os ingredientes de levam, tamanhos disponíveis e preços. A forma de contato será através de um link de redirecionamento para o whatsapp.
 
 <br/>
 
@@ -89,7 +87,7 @@ Os produtos exibidos serão 6 tipos de poke oferecidos pelo restaurante. Terá a
 
 <br/>
 
-Não será necessário cadastro.
+- Não será necessário cadastro.
 
 <br/>
 
@@ -97,7 +95,7 @@ Não será necessário cadastro.
 
 <br/>
 
-As seguintes seções são estabelecidas: sobre, cardápio e contato.
+- As seguintes seções são estabelecidas: sobre, cardápio e contato.
 
 <br/>
 
@@ -114,23 +112,24 @@ As seguintes seções são estabelecidas: sobre, cardápio e contato.
 <br/>
 - No primeiro site analisado, o site é dividido nas seguintes partes: slideshow de fotos dos produtos, header, quem somos, lojas e contatos, tudo na mesma página. As cores laranja, azul e branco são usadas, e lembram as cores do salmão e do mar. O site não permite que façam pedidos, apenas que entre em contato por um formulário.
 
-<br/><br/>
+<br/>
 
 ### _Exemplo 2: Let's poke_
 
 <br/>
 - O segundo site analisado, o site é dividido nas partes: header (menu com vários guias), slideshow dos produtos, apresentação da empresa, informações sobre as unidades, página para quem quiser abrir uma franquia, cardápio, página de delivery que incentiva o download de um app. O site se distancia um pouco da proposta do Hello Poke, sendo mais direcionado à franquiados e não à clientes. Novamente, a cor laranja é utilizada, assim como preto e branco.
 
-<br/><br/>
+<br/>
 
 ### _Exemplo 3: manapoke_
 
 <br/>
-- O terceiro site contém as seguintes sessões:  home,quem somos, cardápio, encontre uma loja, mana store, contato. O cardápio é um link para um pdf, não faz parte do site. A paleta de cores contém tons pásteis das cores: rosa, amarelo, azul e verde, o que lembra o clima havaiano.
+
+- O terceiro site contém as seguintes sessões: home,quem somos, cardápio, encontre uma loja, mana store, contato. O cardápio é um link para um pdf, não faz parte do site. A paleta de cores contém tons pásteis das cores: rosa, amarelo, azul e verde, o que lembra o clima havaiano.
 
 <br/>
 
-# WireFrame
+# WireFrames
 
 > Wireframes são uma parte crucial do processo de design de interfaces, pois permitem que os designers visualizem e testem a estrutura e as funcionalidades de uma página ou tela antes da criação da interface final.
 
@@ -142,7 +141,7 @@ Nesta seção, explora-se o processo de criação dos wireframes pelo Figma. Os 
 
 ## **Página Inicial**
 
-#
+<br/>
 
 O wireframe da página principal do site foi criado para oferecer uma visão atrativa do produto, para que o usuário visualize as fotos do prato e conheça o alimento servido.
 
@@ -152,7 +151,29 @@ São identificadas as informações mais importantes que deveriam ser destacadas
 
 <br/>
 
-A seguir, está uma imagem do wireframe da página home do site, que ilustra as escolhas de design e a estrutura da página.
+## **Sobre**
+
+#
+
+<br/>
+
+A página Sobre apresenta uma descrição do restaurante, seus objetivos e valores, além de uma foto da fachada, para que os usuários conheçam melhor a empresa.
+
+<br/>
+
+## **Cardápio**
+
+#
+
+<br/>
+
+A página mais importante do projeto, conta com 6 opções de pokes com diferentes proteínas e uma imagem de cada uma delas, assim como descrição e preço. Assim, o cliente pode ter mais detalhes antes de pedir no Whatsapp do Hello Poke.
+
+<br/>
+
+#
+
+A seguir, está uma visão geral dos wireframes, que ilustra as escolhas de design e a estrutura da página.
 
 <br/>
 
@@ -160,6 +181,4 @@ A seguir, está uma imagem do wireframe da página home do site, que ilustra as 
 
 <br/>
 
-## **Página Inicial**
-
-#
+# Protótipo
