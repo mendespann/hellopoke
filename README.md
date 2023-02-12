@@ -4,6 +4,8 @@
 
 > Meu nome é Pamela, esse é o primeiro projeto completo de Front-End que desenvolvo sozinha. A empresa mencionada é fictícia, o meu objetivo é colocar em prática o que aprendi estudando por conta própria e compor um portfólio.
 
+<br/>
+
 - Aqui estao todas as informações necessárias para desenvolver esse projeto. A ideia é que o produto final se torne um site de um restaurante de pokes, e o projeto consiste no desenvolvimento de um site, desde o UI Design com Figma, até a codificação com HTML, CSS e Javascript.
   <br/><br/>
 
@@ -14,13 +16,13 @@ A marca fictícia _Hello Poke_ solicitou a criação de um site moderno e compat
 <br/>
 
 O cliente entrou em contato com os seguintes requisitos:
-<br/><br/>
+<br/>
 
 1. Página que apresenta a empresa
 2. Cardápio
 3. Redes Sociais
 4. Contato - Direcionamento para whatsapp
-   <br/><br/>
+   <br/>
 
 # Briefing do Projeto
 
@@ -46,7 +48,7 @@ A partir disso, uma ideia inicial da tipografia e cores usadas é gerada.
 
 ## Hello Poke Marca
 
-![Ideia Inicial](/.estudos/marca2.png "Foto com identidade visual inicial")
+![Ideia Inicial](/estudos/marca2.png "Foto com identidade visual inicial")
 
 Supondo que o cliente já havia disponibilizado uma logomarca.
 
@@ -54,7 +56,7 @@ Supondo que o cliente já havia disponibilizado uma logomarca.
 
 ## Hello Poke Estilo
 
-![Ideia Inicial](/.estudos/ideiainicial.png "Foto com identidade visual inicial")
+![Ideia Inicial](/estudos/ideiainicial.png "Foto com identidade visual inicial")
 Inspirada nas cores do prato.
 
 <br/>
@@ -130,11 +132,13 @@ As seguintes seções são estabelecidas: sobre, cardápio e contato.
 
 # WireFrame
 
-> Wireframes são uma parte crucial do processo de design de interfaces, pois permitem que os designers visualizem e testem a estrutura e as funcionalidades de uma página ou tela antes da criação da interface final.<
+> Wireframes são uma parte crucial do processo de design de interfaces, pois permitem que os designers visualizem e testem a estrutura e as funcionalidades de uma página ou tela antes da criação da interface final.
 
 <br/>
 
 Nesta seção, explora-se o processo de criação dos wireframes pelo Figma. Os wireframes foram utilizados como base para o desenvolvimento do design final.
+
+<br/>
 
 ## **Página Inicial**
 
@@ -142,8 +146,20 @@ Nesta seção, explora-se o processo de criação dos wireframes pelo Figma. Os 
 
 O wireframe da página principal do site foi criado para oferecer uma visão atrativa do produto, para que o usuário visualize as fotos do prato e conheça o alimento servido.
 
+<br/>
+
+São identificadas as informações mais importantes que deveriam ser destacadas na página, como o logotipo, o menu de navegação contendo sobre, cardápio e o contato. Depois, há uma seção dos pratos mais vendidos, com uma breve descrição que direciona para a página do cardápio. Por fim, a página finaliza com o footer, que contém todas as principais seções e informações de contato.
+
+<br/>
+
 A seguir, está uma imagem do wireframe da página home do site, que ilustra as escolhas de design e a estrutura da página.
 
 <br/>
 
-![Wireframe1](/estudos/Home-wireframe.jpg "Foto com identidade visual inicial")
+![Wireframe1](/estudos/Home-wireframe.jpg "Primeiro Wireframe")
+
+<br/>
+
+## **Página Inicial**
+
+#
