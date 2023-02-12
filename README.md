@@ -156,7 +156,7 @@ A seguir, está uma imagem do wireframe da página home do site, que ilustra as 
 
 <br/>
 
-![Wireframe1](/estudos/Home-wireframe.jpg "Primeiro Wireframe")
+![Wireframe1](/estudos/visaogeral.png "Primeiro Wireframe")
 
 <br/>
 
