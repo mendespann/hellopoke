@@ -2,12 +2,13 @@
 
 <br/>
 
-> Meu nome é Pamela, esse é o primeiro projeto completo de Front-End que desenvolvo sozinha. A empresa mencionada é fictícia, o meu objetivo é colocar em prática o que aprendi estudando por conta própria e compor um portfólio.
+> Meu nome é Pamela, esse é o primeiro projeto completo de Front-End que desenvolvo sozinha. A empresa mencionada é fictícia, o meu objetivo é colocar em prática o que aprendi estudando por conta própria e compor um portfólio. O projeto é dividio em duas partes: Design da interface de Usuário com o Figma & o desenvolvimento do site com HTML, Css e Javascript.
 
 <br/>
 
-- Aqui estao todas as informações necessárias para desenvolver esse projeto. A ideia é que o produto final se torne um site de um restaurante de pokes, e o projeto consiste no desenvolvimento de um site, desde o UI Design com Figma, até a codificação com HTML, CSS e Javascript.
-  <br/><br/>
+A ideia é que o produto final se torne um site de um restaurante fictício de pokes, chamado _Hello Poke_.
+
+<br/>
 
 # Objetivo do Site
 
@@ -153,8 +154,6 @@ São identificadas as informações mais importantes que deveriam ser destacadas
 
 ## **Sobre**
 
-#
-
 <br/>
 
 A página Sobre apresenta uma descrição do restaurante, seus objetivos e valores, além de uma foto da fachada, para que os usuários conheçam melhor a empresa.
@@ -163,15 +162,11 @@ A página Sobre apresenta uma descrição do restaurante, seus objetivos e valor
 
 ## **Cardápio**
 
-#
-
 <br/>
 
 A página mais importante do projeto, conta com 6 opções de pokes com diferentes proteínas e uma imagem de cada uma delas, assim como descrição e preço. Assim, o cliente pode ter mais detalhes antes de pedir no Whatsapp do Hello Poke.
 
 <br/>
-
-#
 
 A seguir, está uma visão geral dos wireframes, que ilustra as escolhas de design e a estrutura da página.
 
@@ -182,3 +177,61 @@ A seguir, está uma visão geral dos wireframes, que ilustra as escolhas de desi
 <br/>
 
 # Protótipo
+
+<br/>
+
+Este protótipo apresenta a solução final de design para o site do restaurante. Ao longo do processo de desenvolvimento, busquei entender as necessidades e expectativas dos usuários para criar uma interface intuitiva e atrativa.
+
+Existem no projeto 3 páginas: **Home**, **Sobre** e **Cardápio.** O primeiro passo foi determinar o estilo usado em todo o site: as cores, tipografia e espaços possíveis. Para melhor formatação e organização, as páginas são divididas em 12 colunas centralizadas.
+
+![Estilo](/estudos/estilo.png "Estilo")
+
+<br/>
+
+## **Página Inicial**
+
+<br/>
+
+Com o estilo pronto, o próximo passo foi a criação da primeira página.
+
+A seção principal da página apresenta uma imagem de alguns pratos. Abaixo disso, está a seção de pokes destaques, que apresenta os itens de cardápio mais populares, acompanhados de fotos atraentes e uma breve descrição. Em toda a página existem botões que direcionam o usuário para o whatsapp da empresa, para que possam fazem os pedidos.
+
+Usando o modelo base do wireframe, esse foi o resultado:
+
+![Estilo](/estudos/home.png "Estilo")
+
+<br/>
+
+## **Cardápio**
+
+<br/>
+
+No cardápio são mostrados as 6 variações de pokes disponíveis, em formato de lista, com a imagem, preço e descriçao de cada uma delas. Por fim, um botão que leva ao whatsapp da empresa.
+
+![Estilo](/estudos/cardapio.png "Estilo")
+
+<br/>
+
+## **Sobre**
+
+<br/>
+
+Na página sobre, existe uma foto da fachada do restaurante, além de uma descrição dos valores da empresa. Por fim, os ícones de suas redes sociais.
+
+![Estilo](/estudos/sobre.png "Estilo")
+
+## **Interações**
+
+A fim de simular o produto final, a ferramenta de protótipo do Figma foi usada para conectar as seções clicáveis entre si.
+
+![Estilo](/estudos/prototipo.png "Estilo")
+
+# Conclusão
+
+Em conclusão, a primeira parte deste projeto, o design de interface de usuário para o site de restaurante fictício de pokes foi uma jornada de muito aprendizado. Como meu primeiro projeto na área de UI/UX, foi um desafio e uma oportunidade para aprender e aprimorar minhas habilidades.
+
+Usando o Figma, pude experimentar e testar diversas opções de design para chegar ao resultado final. Além disso, pude aprender sobre as melhores práticas de design de interface de usuário e como criar wireframes eficientes que serão convertidos em protótipos.
+
+Com esse protótipo como base, dou início à segunda parte do projeto, que é a criação do site com HTML, CSS e Javascript.
+
+# (em andamento...)
