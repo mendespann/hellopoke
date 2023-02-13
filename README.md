@@ -29,8 +29,6 @@ O cliente entrou em contato com os seguintes requisitos:
 
 A primeira etapa de qualquer projeto é entender sobre o projeto/empresa e as necessidades/desejos do cliente.
 
-<br/>
-
 ### **Estilo**
 
 <br/>
@@ -231,6 +229,8 @@ A fim de simular o produto final, a ferramenta de protótipo do Figma foi usada 
 Em conclusão, a primeira parte deste projeto, o design de interface de usuário para o site de restaurante fictício de pokes foi uma jornada de muito aprendizado. Como meu primeiro projeto na área de UI/UX, foi um desafio e uma oportunidade para aprender e aprimorar minhas habilidades.
 
 Usando o Figma, pude experimentar e testar diversas opções de design para chegar ao resultado final. Além disso, pude aprender sobre as melhores práticas de design de interface de usuário e como criar wireframes eficientes que serão convertidos em protótipos.
+
+Você pode conferir o protótipo do projeto [nesse link](https://www.figma.com/file/4Yxl1ZBtcxVOwaQgA5e9TU/Prot%C3%B3tipo-Hello-Poke?node-id=0%3A1&)
 
 Com esse protótipo como base, dou início à segunda parte do projeto, que é a criação do site com HTML, CSS e Javascript.
 
