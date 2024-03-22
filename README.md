@@ -2,10 +2,6 @@
 
 <br/>
 
-> Meu nome é Pamela, esse é o primeiro projeto completo de Front-End que desenvolvo sozinha. A empresa mencionada é fictícia, o meu objetivo é colocar em prática o que aprendi estudando por conta própria e compor um portfólio. O projeto é dividio em duas partes: Design da interface de Usuário com o Figma & o desenvolvimento do site com HTML, Css e Javascript.
-
-<br/>
-
 A ideia é que o produto final se torne um site de um restaurante fictício de pokes, chamado _Hello Poke_.
 
 <br/>
